@@ -264,3 +264,5 @@ Browse large files page by page.
 ```bash
 less /var/log/auth.log
 ```
+
+---
